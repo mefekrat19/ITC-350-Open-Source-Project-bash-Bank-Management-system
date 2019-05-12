@@ -1,0 +1,19 @@
+			Customer Account Bank Management System
+This Project is a Bank Managment System that made in bash programming and desinged for lunix operating system. With this program, we can:
+
+1. Create an new account for a customer and save the information in csv file.
+2. Update the existing account information.
+3. view the accounts deatils.
+4. Manipulate transactions like withdraw the ammount or trasnfer the ammount.
+5.Remove the exisiting account and view customer's list.
+
+Each of these acspects are created by functions for example, Menu function, New account Function and the others. All these functions are connected to csv file, that when every time something new add to the customer's inforamtion, it will automatically upload to that specific cusotmer's account infomration in the csv file.
+
+Most of the codes that are used for this program are:
+1. Functions
+2. Case Switch
+3. If condation
+4. While loop
+5. connection, uploading, and delete of the program to the csv file.
+
+Mohamamd Elyas Fekrat
